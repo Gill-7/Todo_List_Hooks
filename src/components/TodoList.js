@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { RiInfraredThermometerFill } from 'react-icons/ri';
+//import { RiInfraredThermometerFill } from 'react-icons/ri';
 import Todo from './Todo';
 import TodoForm from './TodoForm';
 
